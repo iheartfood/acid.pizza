@@ -11,7 +11,8 @@ body {
 
 #eight-teen {
   background: #1e1a14 url("../images/texture.png") center top repeat;
-  background-size: contain;
+  background-size: 100% auto;
+  padding-bottom: 1px;
 }
 
 #eight-teen a {
@@ -22,10 +23,6 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-weight: bold;
-  font-size: 40px;
-  color: #ffffff;
-  text-transform: uppercase;
   text-decoration: none;
 }
 
@@ -34,4 +31,13 @@ body {
   width: 100%;
   margin: 0;
   padding: 0;
+}
+
+#eight-teen a #disclaimer {
+  display: block;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f0f0f0;
+  text-transform: uppercase;
+  padding-bottom: 80px;
 }
