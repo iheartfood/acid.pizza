@@ -37,7 +37,8 @@ body {
   display: block;
   font-weight: bold;
   font-size: 40px;
-  color: #f0f0f0;
+  color: #ffffff;
+  opacity: 0.75;
   text-transform: uppercase;
   padding-bottom: 80px;
 }
