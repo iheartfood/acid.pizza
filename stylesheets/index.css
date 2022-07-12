@@ -9,7 +9,7 @@ body {
   background: #000000 url("../images/background.gif") center top repeat;
 }
 
-#iate body {
+body#iate {
   background-image: none;
   background-color: #1e1a14;
 }
